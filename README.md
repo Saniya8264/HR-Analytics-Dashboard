@@ -1,6 +1,6 @@
 <img width="616" height="341" alt="snap of Dashboard" src="https://github.com/user-attachments/assets/710ab256-7a4e-4287-bf4d-b81afd4cecf8" />
 
-HR Analytics Dashboard - Power BI
+HR Analytics Dashboard (Power BI)-
 Built an interactive HR Analytics Dashboard in Power BI to analyze and visualize employee data and attrition trends. 
 
 ✅ Key Features: 
